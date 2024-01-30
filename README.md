@@ -8,7 +8,7 @@
 - 😄 Pronouns:she/her...
 - ⚡ Fun fact: Availability to work at any time of the day,
 - I'm looking for an opportunity.
-- Scheduled training date 12/Dec...
+
 <!---
 ylime19/ylime19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
