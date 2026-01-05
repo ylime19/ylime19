@@ -1,15 +1,17 @@
-- 👋 Hi, I’m Emily 
-- 👀 I’m interested in internships...
-- 🌱 I’m currently learning Systems Analysis and Development...
-- 💞️ I’m looking to collaborate on technology...
-- 📫 How to reach me
-- WhatsApp: (79) 9 9884-1717
-  email: emilyadri111@gmail.com ...
-- 😄 Pronouns:she/her...
-- ⚡ Fun fact: Availability to work at any time of the day,
-- I'm looking for an opportunity.
+## 👋 Olá! Eu sou a Emily
 
-<!---
-ylime19/ylime19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedora Back-end Júnior | Java | Spring Boot  
+
+🔧 Tecnologias:
+- Java
+- Spring Boot
+- APIs REST
+- Spring Data JPA
+- SQL
+- Git & GitHub
+
+📌 Projeto em destaque:
+- SGHSS – Sistema de Gestão Hospitalar Simplificado (API REST)
+
+🔗 LinkedIn: https://www.linkedin.com/in/emily-santos20/
